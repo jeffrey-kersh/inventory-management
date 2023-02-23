@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank"><img src="./resources/js/inventory-management-logo/svg/logo-no-background.svg" width="200" alt="Inventory Management Logo"></a></p>
+<p align="center"><a href="" target="_blank"><img src="./resources/js/inventory-management-logo/svg/logo-no-background.svg" width="300" alt="Inventory Management Logo"></a></p>
 
 <br>
 <p align="center">
